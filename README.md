@@ -80,11 +80,16 @@ Una aplicación para gestionar recetas culinarias, permitiendo agregar, visualiz
 - **Pantalla principal**: Muestra el campo de entrada, botón de comprobar y área de resultados.
 - **Mensaje de victoria**: Diálogo que aparece al adivinar correctamente el número.
 - **Menú de ayuda**: Instrucciones detalladas del juego.
+### 🎯 Adivina el Número
+
 
 ### Gestor de Recetas
 - **Interfaz principal**: Formulario para agregar recetas y lista de recetas guardadas.
 - **Vista de ingredientes**: Diálogo que muestra los ingredientes de una receta seleccionada.
 - **Confirmación de eliminación**: Mensaje que confirma la eliminación exitosa de una receta.
+
+### 📌 Recetas
+![Recetas](Rece.png) 
 
 ## Autor
 
@@ -114,3 +119,4 @@ Para preguntas o soporte, puedes contactar al autor del proyecto.
 ---
 
 ¡Disfruta explorando estas aplicaciones y experimentando con la programación en Python!
+
